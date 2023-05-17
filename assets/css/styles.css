@@ -316,34 +316,34 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
+.skills__crypto {
   width: 95%;
 }
 
-.skills__css {
+.skills__cn {
+  width: 95%;
+}
+
+.skills__kali {
   width: 85%;
 }
 
-.skills__js {
-  width: 65%;
-}
-
 .skills__sql {
-  width: 60%;
+  width: 80%;
 }
 
 .skills__cs {
-  width: 50%;
+  width: 80%;
 }
-.skills__ds{
-  width: 30%;
+.skills__np{
+  width: 70%;
 }
-.skills__ux {
-  width: 25%;
+.skills__dbms {
+  width: 60%;
 }
 
-.skills__ml{
-  width: 15%;
+.skills__nlp{
+  width: 50%;
 }
 .skills__img {
   border-radius: .5rem;
